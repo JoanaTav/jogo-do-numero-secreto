@@ -7,6 +7,9 @@ No projeto também utilizei a tecnologia de speech, através do Responsive Voice
 
 Espero no futuro olhar para ele e me orgulhar do caminho que trilhei, só gratidão por ter chegado até aqui. 🚀
 
+Deploy: https://js-game-by-joanatav.vercel.app/
+
+
 # Imagem do jogo finalizado
 
 
