@@ -4,7 +4,7 @@ Esse é o meu primeiro projeto na área de tecnologia e apesar dos desafios fico
 O projeto foi desenvolvido durante o curso Iniciante em Programação T6 - ONE, administrado pelo Programa ONE - Oracle Next Education + Alura e 
 o objetivo do jogo é adivinhar o número secreto por meio de chutes. 
 
-O projeto final do curso utiliza os números de 1 a 10 mas tomei a liberdade de modificar para de 1 a 50, assim aumentando a dificuldade do jogo e a diversão 😉
+O projeto final do curso utiliza os números de 1 a 10 mas tomei a liberdade de modificar para 1 a 50, assim aumentando a dificuldade do jogo e a diversão 😉
 
 Além disso também utilizei a tecnologia de speech, através do Responsive Voice, o que garante maior acessibilidade ao jogo!
 
