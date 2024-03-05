@@ -13,29 +13,10 @@ Espero no futuro olhar para ele e me orgulhar do caminho que trilhei, só gratid
 Deploy: https://js-game-by-joanatav.vercel.app/
 
 
-# Imagem do jogo finalizado
-
-
-
-
+<h2>Imagem do jogo finalizado</h2>
 
 ![jogo numero secreto1](https://github.com/JoanaTav/jogo-do-numero-secreto/assets/157071427/bf9c6505-84e8-4564-9e7e-52622186103e)
 
-
-
-# ⚙️ Tecnologias Utilizadas
+<h2>⚙️ Tecnologias Utilizadas</h2> 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,vscode)](https://skillicons.dev)
-
-
-
-
-
-
-
-
-
-
-
-
-
